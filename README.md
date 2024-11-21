@@ -59,6 +59,15 @@ The `AnimatedAlign` widget is a powerful tool in Flutter for animating changes i
   ├── lib/
   │   └── animation_align_task.dart
   └── pubspec.yaml
+```
 
 
 
+
+
+
+
+
+<div align="center">
+  <video height="450" src="https://github.com/user-attachments/assets/cd3b8d7e-ad06-4988-9492-8e9b0592e8e7" controls />
+</div>
