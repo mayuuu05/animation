@@ -1,4 +1,5 @@
 import 'package:drag_and_drop/screens/animation_align.dart';
+import 'package:drag_and_drop/screens/hero/screen1.dart';
 import 'package:drag_and_drop/screens/home_page.dart';
 import 'package:flutter/material.dart';
 
@@ -14,7 +15,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       // home: HomePage(),
-      home: AnimationAlignTask(),
+      // home: AnimationAlignTask(),
+      home: HeroWidget(),
     );
   }
 }
